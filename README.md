@@ -17,7 +17,7 @@ Members of this subsection of study group 2 are:
 ├── setup.sh
 ├── activate.sh
 ├── requirements.txt       
-├── code                      <--- code for replicating analysis
+├── code    <--- code for replicating analysis
     ├── analysis   
       ├──   <--- functions used in analysis
       ├──  <-- script for running analysis and saving figures
