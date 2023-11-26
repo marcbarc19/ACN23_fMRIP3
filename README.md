@@ -19,8 +19,8 @@ Members of this subsection of study group 2 are:
 ├── requirements.txt       
 ├── code    <--- code for replicating analysis
     ├── analysis   
-      ├──   <--- functions used in analysis
-      ├──  <-- script for running analysis and saving figures
+      ├── Nilearn_InSpe_univariate_analysis  <--- functions used in analysis
+      ├── Nilearn_InSpe_classification_single_sub  <--- functions used in analysis
 ```
 
 ## Data Organisation
