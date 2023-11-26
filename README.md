@@ -28,9 +28,9 @@ The raw data used when running these scripts cannot be published on GitHub due t
 
 ````
 ├── Repository/directory containing the code
-├── 816119          <--- Raw MEG neuroimaging data
-│   └── InSpePosNegData      <--- Contains fMRI data in BIDS format
+├── 816119          <--- fMRI neuroimaging data
+│   └── InSpePosNegData    <--- Contains fMRI data in BIDS format
 │        └── BIDS_2023E    <--- All BIDS data
-├── 835482          <--- Freesurfer output data and labels
+├── 835482         <--- Freesurfer output data and labels
 │   ├── 0subid     <--- `subid` should be replcaed by subject ID
 ````
